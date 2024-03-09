@@ -1,0 +1,109 @@
+{
+  "listings": [
+    {
+      "id": "c1a050a4cd1556948d41",
+      "images": [
+        "https://cdn.pixabay.com/photo/2017/07/01/13/12/architecture-2461454_1280.jpg",
+        "https://cdn.pixabay.com/photo/2020/01/16/17/21/modern-architecture-4771207_640.jpg"
+      ],
+      "bedrooms": "3",
+      "bathrooms": "5",
+      "location": "New York",
+      "status": "PENDING",
+      "category": "RENTAL",
+      "createdAt": "2024-05-01T00:00:00",
+      "updatedAt": "2024-05-01T00:00:00",
+      "price": 2000
+    },
+    {
+      "id": "gd4r2t6d3l",
+      "bedrooms": "3",
+      "bathrooms": "4",
+      "location": "San Antonio",
+      "status": "APPROVED",
+      "category": "RENTAL",
+      "images": [
+        "https://cdn.pixabay.com/photo/2017/06/19/04/06/house-2418106_1280.jpg",
+        "https://cdn.pixabay.com/photo/2020/01/16/17/21/modern-architecture-4771207_640.jpg",
+        "https://cdn.pixabay.com/photo/2017/07/01/13/12/architecture-2461454_1280.jpg",
+        "https://cdn.pixabay.com/photo/2017/06/19/04/11/house-2418110_1280.jpg",
+        "https://cdn.pixabay.com/photo/2015/09/27/22/36/house-961401_1280.jpg"
+      ],
+      "updateAt": "2024-03-08T15:42:31.107Z",
+      "createdAt": "2024-03-08T15:42:31.107Z",
+      "price": 530974
+    },
+    {
+      "id": "iv9mi9z7z6",
+      "bedrooms": "7",
+      "bathrooms": "8",
+      "location": "Henderson",
+      "status": "APPROVED",
+      "category": "RENTAL",
+      "images": [
+        "https://cdn.pixabay.com/photo/2017/06/19/04/06/house-2418106_1280.jpg",
+        "https://cdn.pixabay.com/photo/2020/01/16/17/21/modern-architecture-4771207_640.jpg",
+        "https://cdn.pixabay.com/photo/2017/07/01/13/12/architecture-2461454_1280.jpg",
+        "https://cdn.pixabay.com/photo/2017/06/19/04/11/house-2418110_1280.jpg",
+        "https://cdn.pixabay.com/photo/2015/09/27/22/36/house-961401_1280.jpg"
+      ],
+      "updateAt": "2024-03-08T15:43:43.327Z",
+      "createdAt": "2024-03-08T15:43:43.327Z",
+      "price": 650373
+    },
+    {
+      "id": "nmmg926utn",
+      "bedrooms": "3",
+      "bathrooms": "3",
+      "location": "Texas",
+      "status": "APPROVED",
+      "category": "SALE",
+      "images": [
+        "https://cdn.pixabay.com/photo/2017/07/01/13/12/architecture-2461454_1280.jpg",
+        "https://cdn.pixabay.com/photo/2020/01/16/17/21/modern-architecture-4771207_640.jpg",
+        "https://cdn.pixabay.com/photo/2017/06/19/04/11/house-2418110_1280.jpg",
+        "https://cdn.pixabay.com/photo/2017/06/19/04/06/house-2418106_1280.jpg",
+        "https://cdn.pixabay.com/photo/2015/09/27/22/36/house-961401_1280.jpg"
+      ],
+      "updateAt": "2024-03-08T18:27:36.722Z",
+      "createdAt": "2024-03-08T18:27:36.723Z",
+      "price": 982879
+    },
+    {
+      "id": "6r3n0wp1u5",
+      "bedrooms": "3",
+      "bathrooms": "3",
+      "location": "Texas",
+      "status": "APPROVED",
+      "category": "RENTAL",
+      "images": [
+        "https://cdn.pixabay.com/photo/2017/07/01/13/12/architecture-2461454_1280.jpg",
+        "https://cdn.pixabay.com/photo/2020/01/16/17/21/modern-architecture-4771207_640.jpg",
+        "https://cdn.pixabay.com/photo/2017/06/19/04/11/house-2418110_1280.jpg",
+        "https://cdn.pixabay.com/photo/2017/06/19/04/06/house-2418106_1280.jpg",
+        "https://cdn.pixabay.com/photo/2015/09/27/22/36/house-961401_1280.jpg"
+      ],
+      "updateAt": "2024-03-08T18:27:52.356Z",
+      "createdAt": "2024-03-08T18:27:52.356Z",
+      "price": 858662
+    },
+    {
+      "id": "kxa6duehwf",
+      "bedrooms": "3",
+      "bathrooms": "3",
+      "location": "San Antonio",
+      "status": "PENDING",
+      "category": "RENTAL",
+      "images": [
+        "https://cdn.pixabay.com/photo/2017/07/01/13/12/architecture-2461454_1280.jpg",
+        "https://cdn.pixabay.com/photo/2020/01/16/17/21/modern-architecture-4771207_640.jpg",
+        "https://cdn.pixabay.com/photo/2017/06/19/04/11/house-2418110_1280.jpg",
+        "https://cdn.pixabay.com/photo/2017/06/19/04/06/house-2418106_1280.jpg",
+        "https://cdn.pixabay.com/photo/2015/09/27/22/36/house-961401_1280.jpg"
+      ],
+      "updateAt": "2024-03-08T18:28:02.398Z",
+      "createdAt": "2024-03-08T18:28:02.399Z",
+      "price": 647629
+    }
+  ]
+}
